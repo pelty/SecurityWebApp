@@ -1,0 +1,16 @@
+fr/devprojet/dl/securitywebapp/request/UserRoleRequestWrapper.class
+fr/devprojet/dl/securitywebapp/bean/UserAccount.class
+fr/devprojet/dl/securitywebapp/utils/AppUtils.class
+fr/devprojet/dl/securitywebapp/servlet/LogoutServlet.class
+fr/devprojet/dl/securitywebapp/config/SecurityUtils.class
+fr/devprojet/dl/securitywebapp/request/UserRoleRequestWrapper$1.class
+fr/devprojet/dl/securitywebapp/servlet/LoginServlet.class
+fr/devprojet/dl/securitywebapp/filter/SecurityFilter.class
+fr/devprojet/dl/securitywebapp/utils/UrlPatternUtils.class
+fr/devprojet/dl/securitywebapp/servlet/ManagerTaskServlet.class
+fr/devprojet/dl/securitywebapp/servlet/HomeServlet.class
+fr/devprojet/dl/securitywebapp/servlet/EmployeeTaskServlet.class
+fr/devprojet/dl/securitywebapp/config/SecurityConfig.class
+fr/devprojet/dl/securitywebapp/JAXRSConfiguration.class
+fr/devprojet/dl/securitywebapp/servlet/UserInfoServlet.class
+fr/devprojet/dl/securitywebapp/utils/DataDAO.class

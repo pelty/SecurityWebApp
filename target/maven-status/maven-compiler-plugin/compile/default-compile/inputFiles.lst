@@ -1,0 +1,15 @@
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/servlet/UserInfoServlet.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/filter/SecurityFilter.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/servlet/LogoutServlet.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/utils/UrlPatternUtils.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/utils/DataDAO.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/request/UserRoleRequestWrapper.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/servlet/HomeServlet.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/servlet/EmployeeTaskServlet.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/config/SecurityUtils.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/JAXRSConfiguration.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/utils/AppUtils.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/bean/UserAccount.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/config/SecurityConfig.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/servlet/ManagerTaskServlet.java
+/Users/dev-pro/NetBeansProjects/ObserverPattern/ObserverPattern/SecurityWebApp/src/main/java/fr/devprojet/dl/securitywebapp/servlet/LoginServlet.java
